@@ -72,10 +72,10 @@ Using the Matplotlib library, I plotted the scores. The score curve looks as bel
 I loaded the weights for the agent from the saved file ‘dqn.pth’ and played one episode of collecting Bananas. The agent was able to collect a score of 14 after one episode.
 
 ## **5 Solution Details**
-Navigation Project Solution v2.ipynb : The main file that contains the Q Network definition, Experience Replay, Agent and training functions.
-dqn.pth - Trained weights saved after the agent was able to get an average score of 100 in the last 100 episodes.
-Readme.md
-Report.pdf
+- Navigation Project Solution v2.ipynb : The main file that contains the Q Network definition, Experience Replay, Agent and training functions.
+- dqn.pth - Trained weights saved after the agent was able to get an average score of 100 in the last 100 episodes.
+- Readme.md
+- Report.pdf
 
 ## **6 Ideas for Future Work**
 I would like to continue working on this project by implementing the Double DQN, Duelling DQN and the Prioritized Experience Replay algorithms to improve the performance.
