@@ -34,6 +34,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Implementation of the DDPG Algorithm
 This project implements the Deep Deterministic Policy Gradient algorithm, that is based on the Actor Critic Method and is given below.
 
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/6ede92cb-c055-459d-b297-b737e5b1a6ad" />
+
 
 ### Getting Started
 
